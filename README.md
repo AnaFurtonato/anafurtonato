@@ -1,6 +1,6 @@
-# Olá! Eu sou a Ana Clara Furtonato ✨👋🏻🌱
+# Olá! Eu sou a Ana Clara Furtonato ✨👋🏻
 
-Sou desenvolvedora Front-end com foco em desenvolvimento de telas e estou me aprofundando mais em javascript e suas bibliotecas. Utilizo o meu temmpo livre para ler um bom livro, praticar esportes ou assistir uma serie ou um filme. Atualmente estou trabalhando com freelancer de UX/UI design e estou à procura de um estagio. Tenho tecnico em analise e desenvolvimento de sistema e agora estou fazendo faculdade de Sitema para Internet na Fatec São Roque.
+Sou desenvolvedora Front-end com foco em desenvolvimento de telas e estou me aprofundando mais em javascript e suas bibliotecas. Utilizo o meu tempo livre para ler um bom livro, praticar esportes ou assistir uma serie ou um filme. Atualmente estou trabalhando com freelancer de UX/UI design e estou à procura de um estágio. Tenho técnico em análise e desenvolvimento de sistema e agora estou fazendo faculdade de Sistema para Internet na Fatec São Roque.
 
 - 🖊️ Escrevo artigos sobre tecnologias nesse blog https://praticandosites.com/
 - 📧 Entre em contato pelo e-mail anafortunato44@gmail.com ou pelo <a href = "https://www.linkedin.com/in/ana-furtonato/">Linkedin</a>
@@ -8,7 +8,7 @@ Sou desenvolvedora Front-end com foco em desenvolvimento de telas e estou me apr
 
 ##
 
-### 💻🔧 Linguagens de programação e Ferramentas que eu conheço e utilizo:      
+### 💻🔧 Linguagens de programação e Ferramentas que conheço e utilizo:      
 <div style="display: inline_block"><br>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
