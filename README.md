@@ -1,34 +1,36 @@
-### Olá! Eu sou a Ana Clara Furtonato ✨
+# Olá! Eu sou a Ana Clara Furtonato ✨👋🏻🌱
 
-- ⚡ Estou estudando bastante para aprender javascript
-- 🌱 Com o intuito de ser uma desenvolvedora Front-end
-- 💻 Atualmente estou trabalhando com  web design e UX/UI design
+Sou desenvolvedora Front-end com foco em desenvolvimento de telas e estou me aprofundando mais em javascript e suas bibliotecas. Utilizo o meu temmpo livre para ler um bom livro, praticar esportes ou assistir uma serie ou um filme. Atualmente estou trabalhando com freelancer de UX/UI design e estou à procura de um estagio. Tenho tecnico em analise e desenvolvimento de sistema e agora estou fazendo faculdade de Sitema para Internet na Fatec São Roque.
 
+- 🖊️ Escrevo artigos sobre tecnologias nesse blog https://praticandosites.com/
+- 📧 Entre em contato pelo e-mail anafortunato44@gmail.com ou pelo <a href = "https://www.linkedin.com/in/ana-furtonato/">Linkedin</a>
+
+
+##
+
+### 💻🔧 Linguagens de programação e Ferramentas que eu conheço e utilizo:      
+<div style="display: inline_block"><br>
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</div>
+
+##
+### 🔧Linguagens de programação que estou me aprofundando:   
+<div style="display: inline_block"><br>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</div>
+
+##
 <div>
-  <a href="https://github.com/AnaFurtonato">
+  <a href="http://anafurtonato.com.br/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anafurtonato&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafurtonato&layout=compact&langs_count=16&theme=radical"/>
 </div>
- 
-
-           
-<div style="display: inline_block"><br>
-    <img align="center" alt="icone-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="icone-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt="icone-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="icone-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" alt="icone-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img align="center" alt="icone-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="icone-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
-    <img align="center" alt="icone-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-</div>
-  
-##
-  
-<div>
-  <a href="https://www.linkedin.com/in/ana-furtonato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href = "https://praticandosites.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
-  <a href = "mailto:anafortunato44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
 
