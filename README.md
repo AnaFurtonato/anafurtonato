@@ -2,7 +2,6 @@
 
 Sou desenvolvedora Front-end Júnior com foco em desenvolvimento de telas e estou me aprofundando mais em javascript e suas bibliotecas. Utilizo o meu tempo livre para ler um bom livro, praticar esportes ou assistir uma serie ou um filme. Atualmente estou trabalhando com freelancer de UX/UI design e estou à procura de um estágio. Sou formada em técnico de análise e desenvolvimento de sistema e agora estou fazendo faculdade de Sistema para Internet na Fatec São Roque.
 
-- 🖊️ Escrevo artigos sobre tecnologias nesse blog https://praticandosites.com/
 - 📧 Entre em contato pelo e-mail anafortunato44@gmail.com ou pelo <a href = "https://www.linkedin.com/in/ana-furtonato/">Linkedin</a>
 
 
