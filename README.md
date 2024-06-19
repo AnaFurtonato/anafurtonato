@@ -1,6 +1,6 @@
 # Olá! Eu sou a Ana Clara Furtonato
 
-Sou uma desenvolvedora front-end que atualmente está focada em aprender backend com CSharp (C#). Me formarei em Sistema para Internet pela FATEC (Dez 2023) e em Técnico de Desenvolvimento de Sistema pela ETEC (Dez 2020). Fora do mundo da programação, no meu tempo livre gosto de ler um bons livros, práticar esportes e assistir séries ou filmes, meu filme favorito é Harry Potter. Estou sempre em busca de novas oportunidades para aplicar minhas habilidades técnicas e contribuir para novos projetos. 
+Desenvolvedora Front-End apaixonada por tecnologia e inovação, com sólida experiência em aprimorar e criar funcionalidades em sistemas complexos. Possuo habilidades em React.js, JavaScript, C#, .NET, HTML, CSS e design UX/UI. No meu trabalho na Marshipping Transporte, desenvolvi novas funcionalidades no sistema interno, documentei processos no Confluence e gerenciei o versionamento de código com Git. Como freelancer, projetei interfaces de usuário no Figma e desenvolvi sites em WordPress, focando em SEO e melhorias contínuas baseadas no feedback dos usuários.
 
 - 📧 Entre em contato pelo e-mail anafortunato44@gmail.com ou pelo <a href = "https://www.linkedin.com/in/ana-furtonato/">Linkedin</a>
 
